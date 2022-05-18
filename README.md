@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Bernix01's GitHub stats](https://github-readme-stats-two-wine.vercel.app/api?username=bernix01)](https://github.com/anuraghazra/github-readme-stats)
+[![Bernix01's wakatime stats](https://github-readme-stats-two-wine.vercel.app/api/wakatime?username=bernix01)](https://github.com/anuraghazra/github-readme-stats)
